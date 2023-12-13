@@ -1,4 +1,4 @@
-#pip install thefuzz
+pip install thefuzz
 
 # Importing the libraries
 import pandas as pd
